@@ -1,6 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
+import 'conversion_type.dart';
 import 'flutter_android_opencc_platform_interface.dart';
 
 /// An implementation of [FlutterAndroidOpenccPlatform] that uses method channels.

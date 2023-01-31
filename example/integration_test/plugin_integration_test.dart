@@ -6,11 +6,11 @@
 // For more information about Flutter integration tests, please see
 // https://docs.flutter.dev/cookbook/testing/integration/introduction
 
-import 'package:flutter_android_opencc/flutter_android_opencc_platform_interface.dart';
+import 'package:flutter_android_opencc/conversion_type.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:integration_test/integration_test.dart';
 
-import 'package:flutter_android_opencc/flutter_android_opencc.dart';
+import 'package:flutter_android_opencc/chinese_converter.dart';
 
 void main() {
   IntegrationTestWidgetsFlutterBinding.ensureInitialized();

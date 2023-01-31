@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 
-import 'package:flutter_android_opencc/flutter_android_opencc.dart';
-import 'package:flutter_android_opencc/flutter_android_opencc_platform_interface.dart';
+import 'package:flutter_android_opencc/conversion_type.dart';
+import 'package:flutter_android_opencc/chinese_converter.dart';
 
 void main() {
   runApp(const MyApp());

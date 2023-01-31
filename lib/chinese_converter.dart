@@ -1,3 +1,4 @@
+import 'conversion_type.dart';
 import 'flutter_android_opencc_platform_interface.dart';
 
 class ChineseConverter {

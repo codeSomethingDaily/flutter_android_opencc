@@ -1,5 +1,6 @@
 import 'package:flutter/services.dart';
-import 'package:flutter_android_opencc/flutter_android_opencc_platform_interface.dart';
+import 'package:flutter_android_opencc/conversion_type.dart';
+
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_android_opencc/flutter_android_opencc_method_channel.dart';
 
