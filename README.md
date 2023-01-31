@@ -9,8 +9,19 @@ supports the Android V2 embedding and null safety for flutter, and is dart3 read
 
 run the following command to add flutter_android_opencc to your dependency
 
-```console
+```bash
 flutter pub add flutter_android_opencc
+```
+
+You probably need to update your android/app/build.gradle. If you need support to a lower sdkversion, change the config in android/build.gradle of this plugin instead.
+
+```gradle
+android {
+    defaultConfig {
+        ...
+        minSdkVersion 21
+    }
+}
 ```
 
 ```dart

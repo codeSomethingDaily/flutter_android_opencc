@@ -1,6 +1,6 @@
 name: flutter_android_opencc
 description: A Flutter plugin to wrap [android-opencc](https://github.com/qichuan/android-opencc)
-version: 0.0.1
+version: 0.0.1+1
 homepage: https://github.com/codeSomethingDaily/flutter_android_opencc
 
 environment:
