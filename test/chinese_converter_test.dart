@@ -1,6 +1,7 @@
 import 'package:flutter_android_opencc/conversion_type.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_android_opencc/flutter_android_opencc.dart';
+
+import 'package:flutter_android_opencc/chinese_converter.dart';
 import 'package:flutter_android_opencc/flutter_android_opencc_platform_interface.dart';
 import 'package:flutter_android_opencc/flutter_android_opencc_method_channel.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
