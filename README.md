@@ -1,3 +1,9 @@
+# deprecated
+use flutter_opencc_ffi[https://pub.dev/packages/flutter_opencc_ffi] instaed
+
+
+
+
 # flutter_android_opencc
 
 A Flutter plugin to wrap [android-opencc](https://github.com/qichuan/android-opencc), which is an android port to [OPENCC](https://github.com/BYVoid/OpenCC).
